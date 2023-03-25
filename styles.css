@@ -1,5 +1,6 @@
 /* Your CSS Code here. */
 .div{
+	width: 200px;
 	background-color: purple;
 	border-left: solid 10px green;
 	padding: 10px;
